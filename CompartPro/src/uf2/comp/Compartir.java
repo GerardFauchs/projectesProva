@@ -4,7 +4,7 @@ public class Compartir {
 	
 	public static void main(String[] args){
 		System.out.println("Hola com va?");
-		System.out.println("Nuuss ");
+		System.out.println("Nuuss  ");
 
 	}
 
